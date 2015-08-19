@@ -1,2 +1,0 @@
-bin\x64\Tools-x64.exe /build Package.rsc:list /pathres ../mods/translationGerman /pathdat ../mods/translationGerman/bin
-bin\x64\Tools-x64.exe /mod Package.rsc:translationGerman /pathres ../mods/translationGerman /pathdat ../mods/translationGerman/bin

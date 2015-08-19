@@ -1,11 +1,11 @@
-PackageFile translationGerman
+PackageFile translationGermanCC
 {
-	String _name = "German translation";
-	String _author = "Martin Kuehn";
-	String _description = "All text strings were translated to German language. The default character set has been extended by German umlauts, preserving the default game font. Read more information at http://www.atomkraftzwerg.de";
+	String _name = "[CC] German translation";
+	String _author = "CC Community";
+	String _description = "All CC text strings were translated to German language. The default character set has been extended by German umlauts, preserving the default game font. Read more information at http://www.atomkraftzwerg.de";
 	String _icon = "icon.png";
 	String _preview = "preview.jpg";
-	int _userVersion = 11;
+	int _userVersion = 1;
 
 	// all files in resource directory
 	String _includeList
@@ -30,55 +30,9 @@ ExternalList list
 		"Font/FontMedium.rsc"
 		"Font/FontSmall.rsc"
 		"Font/FontLarge.rsc"
-
-		"Game/Scenario/TutorialCommon.rsc:tutorialGeneral"
-		"Game/Scenario/TutorialFood.rsc:tutorialStrings"
-		"Game/Scenario/TutorialGettingStarted.rsc:tutorialStrings"
-		"Game/Scenario/TutorialSurvival.rsc:tutorialStrings"
-		"Game/Scenario/TutorialTrade.rsc:tutorialStrings"
-
-		"Game/Help/HelpTopics.rsc"
-
-		"Dialog/StringTable.rsc:achievement"
-		"Dialog/StringTable.rsc:autoSave"
-		"Dialog/StringTable.rsc:citizenActions"
-		"Dialog/StringTable.rsc:climate"
-		"Dialog/StringTable.rsc:clothing"
-		"Dialog/StringTable.rsc:common"
-		"Dialog/StringTable.rsc:disaster"
-		"Dialog/StringTable.rsc:diseases"
-		"Dialog/StringTable.rsc:events"
-		"Dialog/StringTable.rsc:gameDialogs"
-		"Dialog/StringTable.rsc:gameKeys"
-		"Dialog/StringTable.rsc:general"
-		"Dialog/StringTable.rsc:globalNames"
-		"Dialog/StringTable.rsc:graphKeys"
-		"Dialog/StringTable.rsc:graphTypes"
-		"Dialog/StringTable.rsc:graphYears"
-		"Dialog/StringTable.rsc:inventorySort"
-		"Dialog/StringTable.rsc:inventoryType"
-		"Dialog/StringTable.rsc:keyNames"
-		"Dialog/StringTable.rsc:loadingDetails"
-		"Dialog/StringTable.rsc:mainMenu"
-		"Dialog/StringTable.rsc:merchant"
-		"Dialog/StringTable.rsc:multiSample"
-		"Dialog/StringTable.rsc:objects"
-		"Dialog/StringTable.rsc:orderTypes"
-		"Dialog/StringTable.rsc:productionYears"
-		"Dialog/StringTable.rsc:professions"
-		"Dialog/StringTable.rsc:purchaseTypes"
-		"Dialog/StringTable.rsc:rawMaterial"
-		"Dialog/StringTable.rsc:reflectionQuality"
-		"Dialog/StringTable.rsc:scenario"
-		"Dialog/StringTable.rsc:seasons"
-		"Dialog/StringTable.rsc:shadowDetail"
-		"Dialog/StringTable.rsc:shadowResolution"
-		"Dialog/StringTable.rsc:startConditions"
+		
+		"UI/ColonialStringTable.rsc:resource"
 		"Dialog/StringTable.rsc:terrainSize"
-		"Dialog/StringTable.rsc:terrainType"
-		"Dialog/StringTable.rsc:textureFilter"
-		"Dialog/StringTable.rsc:toolBar"
-		"Dialog/StringTable.rsc:toolType"
 	]
 }
 
