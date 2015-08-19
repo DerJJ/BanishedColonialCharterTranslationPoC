@@ -1,5 +1,6 @@
 Colonial Charter Translation Mod Proof of Concept
 =========================
+Please make sure all .rsc files are saved in UCS-2 Little Endian encoding!
 
 This mod provides a framework for translations to the mod "Colonial Charter" for the PC game "Banished".
 It is forked from the German Translation Mod by Atomkraftzwerg https://github.com/Atomkraftzwerg/BanishedGermanTranslation
