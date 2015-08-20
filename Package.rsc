@@ -1,8 +1,8 @@
-PackageFile translationGermanCC
+PackageFile CCTranslationPoC
 {
-	String _name = "[CC] German translation";
+	String _name = "[CC] translation PoC";
 	String _author = "CC Community";
-	String _description = "All CC text strings were translated to German language. The default character set has been extended by German umlauts, preserving the default game font. Read more information at http://www.atomkraftzwerg.de";
+	String _description = "Basic Colonial Charter Translation Mod Proof of Concept. The default character set has been extended by German umlauts, preserving the default game font. Read more information at http://www.atomkraftzwerg.de";
 	String _icon = "icon.png";
 	String _preview = "preview.jpg";
 	int _userVersion = 1;
