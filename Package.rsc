@@ -1,4 +1,4 @@
-PackageFile translationGermanCC
+PackageFile CCTranslationGerman
 {
 	String _name = "[CC] German translation";
 	String _author = "CC Community";
