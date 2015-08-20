@@ -8,10 +8,10 @@ For his Mod: more information is available at the Mod page http://atomkraftzwerg
 
 Thanks to the Devs from Black Liquid for the Colonial Charter Mod. http://www.colonialcharter.com/
 
-In order to do a translation for your desired language, translate the stings in the
+In order to do a translation for your desired language, translate the strings in the following files:
+
 /Dialog/StringTable.rsc
 /UI/ColonialStringTable.rsc
-files.
 
 This PoC contains an example special character set to support the german language.
 
